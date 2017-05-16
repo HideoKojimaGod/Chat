@@ -1,0 +1,6 @@
+c:\users\ск\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\СК\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\СК\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\СК\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\СК\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\СК\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
